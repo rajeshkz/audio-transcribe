@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Transcriber",
+  "description": "A real-time voice transcription application powered by Gemini Live API, featuring dual-channel transcription for both user and AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
